@@ -1,0 +1,4 @@
+source_id,source_name,source_family,authority_tier,rights_lane,record_date_range,accepted_observation_count,status
+SRC-MACRO-01,World Bank historical indicators,macroeconomic_indicators,official,derived_facts_cleared,2020/2021,24,used_in_demo
+SRC-SPEND-01,USAspending completed awards,public_spending,official,derived_facts_cleared,2015-09-25/2021-09-30,4,used_in_demo
+SRC-CYBER-01,NVD historical vulnerability metadata,cybersecurity_vulnerabilities,official,derived_facts_cleared,2005-06-01/2021-12-03,42,used_in_demo

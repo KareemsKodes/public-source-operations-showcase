@@ -1,0 +1,62 @@
+[
+  {
+    "Award Amount": 329952976.21,
+    "Award ID": "HSSCCG11J00163",
+    "Award Type": null,
+    "Awarding Agency": "Department of Homeland Security",
+    "Awarding Sub Agency": "U.S. Citizenship and Immigration Services",
+    "Description": "SUSTAINMENT PROGRAM APPLICATION SUPPORT - EAGLE TO",
+    "End Date": "2015-09-25",
+    "NAICS": {
+      "code": "541513",
+      "description": "COMPUTER FACILITIES MANAGEMENT SERVICES"
+    },
+    "Recipient Name": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC.",
+    "Start Date": "2011-08-14",
+    "portfolio_record_sha256": "078a06e3de2590c3728e7ed4c3abc30c9d069ee5537ad1f38fb09a12a2fdbe13",
+    "source": "https://api.usaspending.gov/api/v2/",
+    "source_owner": "U.S. Treasury / USAspending"
+  },
+  {
+    "Award Amount": 244961186.29,
+    "Award ID": "IND15PD01062",
+    "Award Type": null,
+    "Awarding Agency": "Department of the Interior",
+    "Awarding Sub Agency": "Departmental Offices",
+    "Description": "IGF::CT::IGF",
+    "End Date": "2021-05-26",
+    "NAICS": {
+      "code": "541512",
+      "description": "COMPUTER SYSTEMS DESIGN SERVICES"
+    },
+    "Recipient Name": "BOOZ ALLEN HAMILTON INC",
+    "Start Date": "2015-09-25",
+    "portfolio_record_sha256": "137a7275d8a7339c8691b14847753c933a7ab3b6a07c7d47e9873ffb420e71fb",
+    "source": "https://api.usaspending.gov/api/v2/",
+    "source_owner": "U.S. Treasury / USAspending"
+  },
+  {
+    "Award Amount": 2321660718.06,
+    "Award ID": "216TX332N1199",
+    "Awarding Agency": "Department of Agriculture",
+    "Description": "SCHOOL FOOD PROGRAMS",
+    "End Date": "2021-09-30",
+    "Recipient Name": "AGRICULTURE, TEXAS DEPARTMENT OF",
+    "Start Date": "2020-10-01",
+    "portfolio_record_sha256": "bc1c1bfa9706d8915d983539339075ef84b182555941f80f3bfd74b935189a9b",
+    "source": "https://api.usaspending.gov/api/v2/",
+    "source_owner": "U.S. Treasury / USAspending"
+  },
+  {
+    "Award Amount": 1995323349.22,
+    "Award ID": "S010A200005",
+    "Awarding Agency": "Department of Education",
+    "Description": "TITLE I PART A BASIC GRANTS TO LEAS",
+    "End Date": "2021-09-30",
+    "Recipient Name": "DEPARTMENT OF EDUCATION CALIFORNIA",
+    "Start Date": "2020-07-01",
+    "portfolio_record_sha256": "1bcc30a01b7d5248059abfcf782ca2fc2fb7caacb36a66ff651c4a5ddd4713c6",
+    "source": "https://api.usaspending.gov/api/v2/",
+    "source_owner": "U.S. Treasury / USAspending"
+  }
+]

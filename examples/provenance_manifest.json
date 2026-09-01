@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-08-29T00:00:00Z",
+  "publication_boundary": "Historical portfolio demonstration only. Revalidate current source terms before any redistribution or production delivery.",
+  "schema_version": "historical_portfolio_provenance.v1",
+  "selected_record_count": 70,
+  "selection_cutoff": "2021-12-31",
+  "selection_method": "Offline selection of historical public facts into a portfolio-only evidence fixture.",
+  "source_count": 3,
+  "sources": [
+    {
+      "contains_personal_contact_fields": false,
+      "contains_raw_source_body": false,
+      "publication_review": "public_facts_only",
+      "record_date_range": "2020/2021",
+      "selected_record_count": 24,
+      "selection_date_field": "period",
+      "snapshot_file": "evidence_snapshots/macro_indicators_2020_2021.json",
+      "snapshot_sha256": "3af377e9510c5207a152922c7a5cd1304194d7401ed05cfe5db3cfa267201adf",
+      "source_id": "SRC-MACRO-01",
+      "source_name": "World Bank historical indicators"
+    },
+    {
+      "contains_personal_contact_fields": false,
+      "contains_raw_source_body": false,
+      "publication_review": "public_facts_only",
+      "record_date_range": "2015-09-25/2021-09-30",
+      "selected_record_count": 4,
+      "selection_date_field": "End Date",
+      "snapshot_file": "evidence_snapshots/public_awards_completed_by_2021.json",
+      "snapshot_sha256": "60d7eca9ccf4ff951fe9543423305d5014db60c95109698338d9f453218c9a1d",
+      "source_id": "SRC-SPEND-01",
+      "source_name": "USAspending completed awards"
+    },
+    {
+      "contains_personal_contact_fields": false,
+      "contains_raw_source_body": false,
+      "publication_review": "public_facts_only",
+      "record_date_range": "2005-06-01/2021-12-03",
+      "selected_record_count": 42,
+      "selection_date_field": "published_at",
+      "snapshot_file": "evidence_snapshots/vulnerabilities_published_by_2021.json",
+      "snapshot_sha256": "5a4f45e37b2ae63a7d4cf62b3235abf07a68ee39b59a16da956042a07b1072f9",
+      "source_id": "SRC-CYBER-01",
+      "source_name": "NVD historical vulnerability metadata"
+    }
+  ]
+}

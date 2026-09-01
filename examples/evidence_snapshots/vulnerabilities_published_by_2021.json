@@ -1,0 +1,732 @@
+[
+  {
+    "cve_id": "CVE-2005-1794",
+    "cvss_base_score": 6.4,
+    "cvss_base_severity": "MEDIUM",
+    "cvss_metric": "cvssMetricV2",
+    "cvss_vector": "AV:N/AC:L/Au:N/C:P/I:P/A:N",
+    "cvss_version": "2.0",
+    "exploitability_score": 10.0,
+    "impact_score": 4.9,
+    "portfolio_record_sha256": "8ea2033f552426a72ed924996beafafc8c3e87f3e0da117dc9626bbf3568916f",
+    "published_at": "2005-06-01T04:00:00.000",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "NVD-CWE-Other"
+    ]
+  },
+  {
+    "cve_id": "CVE-2008-4250",
+    "cvss_base_score": 9.8,
+    "cvss_base_severity": "CRITICAL",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "cvss_version": "3.1",
+    "exploitability_score": 3.9,
+    "impact_score": 5.9,
+    "portfolio_record_sha256": "89a2ec203b5b22c9b74ae9580a5d24d12c9cae02418ffd0cfd3011c49a1073c3",
+    "published_at": "2008-10-23T22:00:01.357",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-119",
+      "CWE-94"
+    ]
+  },
+  {
+    "cve_id": "CVE-2009-1537",
+    "cvss_base_score": 8.8,
+    "cvss_base_severity": "HIGH",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
+    "cvss_version": "3.1",
+    "exploitability_score": 2.8,
+    "impact_score": 5.9,
+    "portfolio_record_sha256": "e74e4a193da84c5ba5426044a338c5cb043a3846f63de4738b8f3ff5ba3b05d2",
+    "published_at": "2009-05-29T18:30:00.187",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-158",
+      "NVD-CWE-noinfo"
+    ]
+  },
+  {
+    "cve_id": "CVE-2009-3459",
+    "cvss_base_score": 8.8,
+    "cvss_base_severity": "HIGH",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
+    "cvss_version": "3.1",
+    "exploitability_score": 2.8,
+    "impact_score": 5.9,
+    "portfolio_record_sha256": "56cb10a305807b86e57356c437ab1a0b33e405c2ada0103af688fb61d119e3c1",
+    "published_at": "2009-10-13T10:30:00.577",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-119",
+      "CWE-122"
+    ]
+  },
+  {
+    "cve_id": "CVE-2010-0249",
+    "cvss_base_score": 8.8,
+    "cvss_base_severity": "HIGH",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
+    "cvss_version": "3.1",
+    "exploitability_score": 2.8,
+    "impact_score": 5.9,
+    "portfolio_record_sha256": "c5fcb3051d26c16080eb4a42e5a85e1bdf2c16c335c07fa3c7850b04ff8939c0",
+    "published_at": "2010-01-15T17:30:00.533",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-416"
+    ]
+  },
+  {
+    "cve_id": "CVE-2010-0806",
+    "cvss_base_score": 8.8,
+    "cvss_base_severity": "HIGH",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
+    "cvss_version": "3.1",
+    "exploitability_score": 2.8,
+    "impact_score": 5.9,
+    "portfolio_record_sha256": "e6cfa4c6f1c1234e2c9594f195577aad2229cb44bb8ffef534dccaf7a90d4cdd",
+    "published_at": "2010-03-10T22:30:01.323",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-399",
+      "CWE-416"
+    ]
+  },
+  {
+    "cve_id": "CVE-2012-0814",
+    "cvss_base_score": 3.5,
+    "cvss_base_severity": "LOW",
+    "cvss_metric": "cvssMetricV2",
+    "cvss_vector": "AV:N/AC:M/Au:S/C:P/I:N/A:N",
+    "cvss_version": "2.0",
+    "exploitability_score": 6.8,
+    "impact_score": 2.9,
+    "portfolio_record_sha256": "c8611fb17afbaa068e3832784f5089e62abd99b9be092ed7f3c6a99059747718",
+    "published_at": "2012-01-27T19:55:01.063",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-255"
+    ]
+  },
+  {
+    "cve_id": "CVE-2012-6435",
+    "cvss_base_score": 7.5,
+    "cvss_base_severity": "HIGH",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+    "cvss_version": "3.1",
+    "exploitability_score": 3.9,
+    "impact_score": 3.6,
+    "portfolio_record_sha256": "113faba9617d0c72c9ef2dfd88c7f1a6f26c175a3009f4a1847de0e880344f8f",
+    "published_at": "2013-01-24T21:55:01.430",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-284",
+      "CWE-399"
+    ]
+  },
+  {
+    "cve_id": "CVE-2012-6436",
+    "cvss_base_score": 7.5,
+    "cvss_base_severity": "HIGH",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+    "cvss_version": "3.1",
+    "exploitability_score": 3.9,
+    "impact_score": 3.6,
+    "portfolio_record_sha256": "e07bbf821082fb3a9e06e9b2ab2689069a098eb594388a1d6ab040b6c9fc0428",
+    "published_at": "2013-01-24T21:55:01.477",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-119"
+    ]
+  },
+  {
+    "cve_id": "CVE-2012-6437",
+    "cvss_base_score": 9.8,
+    "cvss_base_severity": "CRITICAL",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "cvss_version": "3.1",
+    "exploitability_score": 3.9,
+    "impact_score": 5.9,
+    "portfolio_record_sha256": "134f1c9b2993a2fab9f90b6e834c20d282adddff1aba87ac0669d054a6ab6ebf",
+    "published_at": "2013-01-24T21:55:01.523",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-287"
+    ]
+  },
+  {
+    "cve_id": "CVE-2012-6438",
+    "cvss_base_score": 7.5,
+    "cvss_base_severity": "HIGH",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+    "cvss_version": "3.1",
+    "exploitability_score": 3.9,
+    "impact_score": 3.6,
+    "portfolio_record_sha256": "0f4e52bbdd5fb972184d95cdf1c7dc0b9b7f8e80cd9c14fe162ccd6ad2cf2809",
+    "published_at": "2013-01-24T21:55:01.603",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-119"
+    ]
+  },
+  {
+    "cve_id": "CVE-2012-6440",
+    "cvss_base_score": 4.8,
+    "cvss_base_severity": "MEDIUM",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:L/A:N",
+    "cvss_version": "3.1",
+    "exploitability_score": 2.2,
+    "impact_score": 2.5,
+    "portfolio_record_sha256": "646c5b8c729ed082a2677dcdc653e4da1f12b6a4b7cef9982477f4246ffd8854",
+    "published_at": "2013-01-24T21:55:01.697",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-287"
+    ]
+  },
+  {
+    "cve_id": "CVE-2012-6442",
+    "cvss_base_score": 7.5,
+    "cvss_base_severity": "HIGH",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+    "cvss_version": "3.1",
+    "exploitability_score": 3.9,
+    "impact_score": 3.6,
+    "portfolio_record_sha256": "9c45e3ede2e6856542e55eb73769ca4171894434b61bd867720f36a94af91ded",
+    "published_at": "2013-01-24T21:55:01.773",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-119",
+      "CWE-284"
+    ]
+  },
+  {
+    "cve_id": "CVE-2013-2566",
+    "cvss_base_score": 5.9,
+    "cvss_base_severity": "MEDIUM",
+    "cvss_metric": "cvssMetricV30",
+    "cvss_vector": "CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:N",
+    "cvss_version": "3.0",
+    "exploitability_score": 2.2,
+    "impact_score": 3.6,
+    "portfolio_record_sha256": "eb03f82e21bbb81b09f5bb5220c38184aeb8a99620bf47456a02e1c6cacbcf48",
+    "published_at": "2013-03-15T21:55:01.047",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-326"
+    ]
+  },
+  {
+    "cve_id": "CVE-2013-1609",
+    "cvss_base_score": 6.8,
+    "cvss_base_severity": "MEDIUM",
+    "cvss_metric": "cvssMetricV2",
+    "cvss_vector": "AV:L/AC:L/Au:S/C:C/I:C/A:C",
+    "cvss_version": "2.0",
+    "exploitability_score": 3.1,
+    "impact_score": 10.0,
+    "portfolio_record_sha256": "1cc8c3812875579f129fc3058dab4e3fdc49b2929385c3529f608dffee5988ff",
+    "published_at": "2013-03-26T14:07:27.770",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "NVD-CWE-Other"
+    ]
+  },
+  {
+    "cve_id": "CVE-2015-3246",
+    "cvss_base_score": 5.1,
+    "cvss_base_severity": "MEDIUM",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:L/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:H",
+    "cvss_version": "3.1",
+    "exploitability_score": 1.4,
+    "impact_score": 3.6,
+    "portfolio_record_sha256": "54f7bb47a5acb6b53d7689373d4ba396ce180d5733ce75fb56df89ed15bd208b",
+    "published_at": "2015-08-11T14:59:07.040",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-264",
+      "CWE-367"
+    ]
+  },
+  {
+    "cve_id": "CVE-2015-6490",
+    "cvss_base_score": 9.8,
+    "cvss_base_severity": "CRITICAL",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "cvss_version": "3.1",
+    "exploitability_score": 3.9,
+    "impact_score": 5.9,
+    "portfolio_record_sha256": "2a5a571ea4307d86fa76848406099da0edd3d5f94cd172abb28dfefe6b37288d",
+    "published_at": "2015-10-28T10:59:12.937",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-119",
+      "CWE-121"
+    ]
+  },
+  {
+    "cve_id": "CVE-2015-6492",
+    "cvss_base_score": 7.5,
+    "cvss_base_severity": "HIGH",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+    "cvss_version": "3.1",
+    "exploitability_score": 3.9,
+    "impact_score": 3.6,
+    "portfolio_record_sha256": "e53cb6a2c50f4282e4c13576080784e3989b81cf044cf4f7573aa00498df0285",
+    "published_at": "2015-10-28T10:59:14.920",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-119"
+    ]
+  },
+  {
+    "cve_id": "CVE-2015-5287",
+    "cvss_base_score": 7.8,
+    "cvss_base_severity": "HIGH",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
+    "cvss_version": "3.1",
+    "exploitability_score": 1.8,
+    "impact_score": 5.9,
+    "portfolio_record_sha256": "8b69914ba211fc135694586339da5702810226566a1180844caa2c602c399a8f",
+    "published_at": "2015-12-07T18:59:02.230",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-59"
+    ]
+  },
+  {
+    "cve_id": "CVE-2016-2279",
+    "cvss_base_score": 6.1,
+    "cvss_base_severity": "MEDIUM",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N",
+    "cvss_version": "3.1",
+    "exploitability_score": 2.8,
+    "impact_score": 2.7,
+    "portfolio_record_sha256": "66a3c83943eea98400889c58f4c89254f66bbf1b90970370969eb93e41c8be78",
+    "published_at": "2016-03-02T11:59:03.723",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-79"
+    ]
+  },
+  {
+    "cve_id": "CVE-2015-8553",
+    "cvss_base_score": 6.5,
+    "cvss_base_severity": "MEDIUM",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:N/A:N",
+    "cvss_version": "3.1",
+    "exploitability_score": 2.0,
+    "impact_score": 4.0,
+    "portfolio_record_sha256": "97ffe761317391363ccae6d4c91918611a595aee3ba5d660cdbef0ba2d497283",
+    "published_at": "2016-04-13T15:59:07.307",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-200"
+    ]
+  },
+  {
+    "cve_id": "CVE-2015-8325",
+    "cvss_base_score": 7.8,
+    "cvss_base_severity": "HIGH",
+    "cvss_metric": "cvssMetricV30",
+    "cvss_vector": "CVSS:3.0/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
+    "cvss_version": "3.0",
+    "exploitability_score": 1.8,
+    "impact_score": 5.9,
+    "portfolio_record_sha256": "46f926927f52d90e8c4b36911cbdba40dd09e44ef2d6bee0470be645a5b40677",
+    "published_at": "2016-05-01T01:59:00.143",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-264"
+    ]
+  },
+  {
+    "cve_id": "CVE-2016-5645",
+    "cvss_base_score": 7.3,
+    "cvss_base_severity": "HIGH",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:L",
+    "cvss_version": "3.1",
+    "exploitability_score": 3.9,
+    "impact_score": 3.4,
+    "portfolio_record_sha256": "e99b0b6af7898bf375011c5a08b115af93be0422e5bbc705079b923e138151b6",
+    "published_at": "2016-08-24T02:00:12.823",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-284",
+      "CWE-798"
+    ]
+  },
+  {
+    "cve_id": "CVE-2005-4900",
+    "cvss_base_score": 5.9,
+    "cvss_base_severity": "MEDIUM",
+    "cvss_metric": "cvssMetricV30",
+    "cvss_vector": "CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:N",
+    "cvss_version": "3.0",
+    "exploitability_score": 2.2,
+    "impact_score": 3.6,
+    "portfolio_record_sha256": "24d822386f38543dfb5cebe0fc1268ac163510c21d52bee421f92baca5b7a395",
+    "published_at": "2016-10-14T16:59:00.187",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-326"
+    ]
+  },
+  {
+    "cve_id": "CVE-2017-7898",
+    "cvss_base_score": 9.8,
+    "cvss_base_severity": "CRITICAL",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "cvss_version": "3.1",
+    "exploitability_score": 3.9,
+    "impact_score": 5.9,
+    "portfolio_record_sha256": "5e496085810e05656faab8fb68986821b075152bef777b921710ef0ecadb5375",
+    "published_at": "2017-06-30T03:29:00.703",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-307"
+    ]
+  },
+  {
+    "cve_id": "CVE-2017-7903",
+    "cvss_base_score": 9.8,
+    "cvss_base_severity": "CRITICAL",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "cvss_version": "3.1",
+    "exploitability_score": 3.9,
+    "impact_score": 5.9,
+    "portfolio_record_sha256": "7f7d21a7158db4f5bfab8497fdd8d7a04b3a8ad790206ba7990603665e38d301",
+    "published_at": "2017-06-30T03:29:00.860",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-326",
+      "CWE-521"
+    ]
+  },
+  {
+    "cve_id": "CVE-2015-1862",
+    "cvss_base_score": 7.0,
+    "cvss_base_severity": "HIGH",
+    "cvss_metric": "cvssMetricV30",
+    "cvss_vector": "CVSS:3.0/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H",
+    "cvss_version": "3.0",
+    "exploitability_score": 1.0,
+    "impact_score": 5.9,
+    "portfolio_record_sha256": "1ec96da0e3b583b405c44b13c95fa4a00bd4b5951a9d20638ece882ddedb77ec",
+    "published_at": "2018-02-09T22:29:00.520",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-362"
+    ]
+  },
+  {
+    "cve_id": "CVE-2018-1273",
+    "cvss_base_score": 9.8,
+    "cvss_base_severity": "CRITICAL",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "cvss_version": "3.1",
+    "exploitability_score": 3.9,
+    "impact_score": 5.9,
+    "portfolio_record_sha256": "711db5e6a9cd8f863f6d34e0f99a5701e89ec3f49ca7376794f6c189f418f99d",
+    "published_at": "2018-04-11T13:29:00.290",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-94",
+      "NVD-CWE-Other"
+    ]
+  },
+  {
+    "cve_id": "CVE-2018-6439",
+    "cvss_base_score": 7.8,
+    "cvss_base_severity": "HIGH",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
+    "cvss_version": "3.1",
+    "exploitability_score": 1.8,
+    "impact_score": 5.9,
+    "portfolio_record_sha256": "422e2c79d0f8494f4b73dc6a4032137ff94e525fb3079ae3e3f169361ddad433",
+    "published_at": "2018-12-03T21:29:00.227",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "NVD-CWE-noinfo"
+    ]
+  },
+  {
+    "cve_id": "CVE-2018-17924",
+    "cvss_base_score": 8.6,
+    "cvss_base_severity": "HIGH",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:N/I:N/A:H",
+    "cvss_version": "3.1",
+    "exploitability_score": 3.9,
+    "impact_score": 4.0,
+    "portfolio_record_sha256": "905720e135fab714817747b2fe6480c3bf8da0748f768a43f3de244f827a807b",
+    "published_at": "2018-12-07T14:29:00.663",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-306"
+    ]
+  },
+  {
+    "cve_id": "CVE-2019-6575",
+    "cvss_base_score": 7.5,
+    "cvss_base_severity": "HIGH",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+    "cvss_version": "3.1",
+    "exploitability_score": 3.9,
+    "impact_score": 3.6,
+    "portfolio_record_sha256": "95b37791440a7cc63749a71a0735d5c68a295c30e84626843780d92f11853704",
+    "published_at": "2019-04-17T14:29:03.760",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-248",
+      "CWE-755"
+    ]
+  },
+  {
+    "cve_id": "CVE-2019-10955",
+    "cvss_base_score": 6.1,
+    "cvss_base_severity": "MEDIUM",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N",
+    "cvss_version": "3.1",
+    "exploitability_score": 2.8,
+    "impact_score": 2.7,
+    "portfolio_record_sha256": "6623b556d389f41dde12d31c326237662d62521da488ae6e10e528b0b65ce293",
+    "published_at": "2019-04-25T18:29:00.397",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-601"
+    ]
+  },
+  {
+    "cve_id": "CVE-2019-1068",
+    "cvss_base_score": 8.8,
+    "cvss_base_severity": "HIGH",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
+    "cvss_version": "3.1",
+    "exploitability_score": 2.8,
+    "impact_score": 5.9,
+    "portfolio_record_sha256": "d85fad2d06200f691361c1812bb6598004cb1288839fdbf5171355d174801d4c",
+    "published_at": "2019-07-15T19:15:16.983",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-20",
+      "NVD-CWE-noinfo"
+    ]
+  },
+  {
+    "cve_id": "CVE-2011-4088",
+    "cvss_base_score": 7.5,
+    "cvss_base_severity": "HIGH",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N",
+    "cvss_version": "3.1",
+    "exploitability_score": 3.9,
+    "impact_score": 3.6,
+    "portfolio_record_sha256": "2b373ce8f804456d07229010c8f16ccf5a8c5f8e820c899473e1d0ae6d3a0fde",
+    "published_at": "2020-01-31T17:15:13.560",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-200"
+    ]
+  },
+  {
+    "cve_id": "CVE-2020-6984",
+    "cvss_base_score": 7.5,
+    "cvss_base_severity": "HIGH",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N",
+    "cvss_version": "3.1",
+    "exploitability_score": 3.9,
+    "impact_score": 3.6,
+    "portfolio_record_sha256": "14c02f26c735086efd03e3e3610188fb0d708511100c9aaeb0d107c3f46171df",
+    "published_at": "2020-03-16T16:15:14.670",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-327"
+    ]
+  },
+  {
+    "cve_id": "CVE-2020-6988",
+    "cvss_base_score": 7.5,
+    "cvss_base_severity": "HIGH",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N",
+    "cvss_version": "3.1",
+    "exploitability_score": 3.9,
+    "impact_score": 3.6,
+    "portfolio_record_sha256": "a3e296306b0a6ca45de9b27c6f4e0a151732320b79bf27144860dd29de8200d9",
+    "published_at": "2020-03-16T16:15:14.767",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-287",
+      "CWE-603"
+    ]
+  },
+  {
+    "cve_id": "CVE-2020-6990",
+    "cvss_base_score": 9.8,
+    "cvss_base_severity": "CRITICAL",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "cvss_version": "3.1",
+    "exploitability_score": 3.9,
+    "impact_score": 5.9,
+    "portfolio_record_sha256": "dd4a2d3c0678e6a9de2a763d4239d228a6f1c076ad151a502dc71662cdcd89db",
+    "published_at": "2020-03-16T16:15:14.843",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-321",
+      "CWE-798"
+    ]
+  },
+  {
+    "cve_id": "CVE-2021-22659",
+    "cvss_base_score": 8.6,
+    "cvss_base_severity": "HIGH",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:H",
+    "cvss_version": "3.1",
+    "exploitability_score": 3.9,
+    "impact_score": 4.7,
+    "portfolio_record_sha256": "21c4ba7e6287facec61c0201577395c28ae32b517c095edc1b6e9ba3acd07d6d",
+    "published_at": "2021-03-25T16:15:14.040",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-120"
+    ]
+  },
+  {
+    "cve_id": "CVE-2021-21735",
+    "cvss_base_score": 6.5,
+    "cvss_base_severity": "MEDIUM",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N",
+    "cvss_version": "3.1",
+    "exploitability_score": 2.8,
+    "impact_score": 3.6,
+    "portfolio_record_sha256": "1ff22ada2a28a317fcc0d94e634868b1ab7b1f8d1fb14aea830abd93ce8ec168",
+    "published_at": "2021-06-10T12:15:08.457",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-281"
+    ]
+  },
+  {
+    "cve_id": "CVE-2021-28691",
+    "cvss_base_score": 7.8,
+    "cvss_base_severity": "HIGH",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
+    "cvss_version": "3.1",
+    "exploitability_score": 1.8,
+    "impact_score": 5.9,
+    "portfolio_record_sha256": "cf47ff81ac44272523b69e14cadd7c2f54623f701cf2e050153dfa7a70b0954f",
+    "published_at": "2021-06-29T12:15:08.543",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-416"
+    ]
+  },
+  {
+    "cve_id": "CVE-2021-33012",
+    "cvss_base_score": 8.6,
+    "cvss_base_severity": "HIGH",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:N/I:N/A:H",
+    "cvss_version": "3.1",
+    "exploitability_score": 3.9,
+    "impact_score": 4.0,
+    "portfolio_record_sha256": "d0270db09b943f275856bce920f6b21b9a6bfa3532559048edfde83895c076aa",
+    "published_at": "2021-07-09T15:15:08.503",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-20",
+      "NVD-CWE-noinfo"
+    ]
+  },
+  {
+    "cve_id": "CVE-2021-23758",
+    "cvss_base_score": 8.1,
+    "cvss_base_severity": "HIGH",
+    "cvss_metric": "cvssMetricV31",
+    "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "cvss_version": "3.1",
+    "exploitability_score": 2.2,
+    "impact_score": 5.9,
+    "portfolio_record_sha256": "ab2bc5c2dccf9baef30ae9290ccf536968a0256810165a8d7ad1433af503632d",
+    "published_at": "2021-12-03T20:15:07.557",
+    "source": "https://services.nvd.nist.gov/rest/json/cves/2.0",
+    "source_owner": "NIST National Vulnerability Database",
+    "weakness_ids": [
+      "CWE-502"
+    ]
+  }
+]

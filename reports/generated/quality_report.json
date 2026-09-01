@@ -1,0 +1,130 @@
+{
+  "rejected_observations": [],
+  "summary": {
+    "accepted_observation_count": 70,
+    "as_of_date": "2021-12-31",
+    "corroborated_event_count": 0,
+    "duplicate_observation_count": 1,
+    "duplicate_rate_pct": 1.41,
+    "effective_date_max": "2021-12-31",
+    "effective_date_min": "2005-06-01",
+    "event_type_distribution": {
+      "cyber.vulnerability.published": 42,
+      "economic.indicator.observed": 24,
+      "public_award.completed": 4
+    },
+    "generated_at": "2026-08-29T00:00:00Z",
+    "input_observation_count": 71,
+    "lineage_checks": [
+      {
+        "actual": "2021-12-31",
+        "check": "selection_cutoff",
+        "expected": "2021-12-31",
+        "status": "pass"
+      },
+      {
+        "check": "snapshot_hash",
+        "source_id": "SRC-MACRO-01",
+        "status": "pass"
+      },
+      {
+        "actual": 24,
+        "check": "snapshot_record_count",
+        "expected": 24,
+        "source_id": "SRC-MACRO-01",
+        "status": "pass"
+      },
+      {
+        "check": "publication_review",
+        "source_id": "SRC-MACRO-01",
+        "status": "pass"
+      },
+      {
+        "check": "personal_contact_boundary",
+        "source_id": "SRC-MACRO-01",
+        "status": "pass"
+      },
+      {
+        "check": "snapshot_hash",
+        "source_id": "SRC-SPEND-01",
+        "status": "pass"
+      },
+      {
+        "actual": 4,
+        "check": "snapshot_record_count",
+        "expected": 4,
+        "source_id": "SRC-SPEND-01",
+        "status": "pass"
+      },
+      {
+        "check": "publication_review",
+        "source_id": "SRC-SPEND-01",
+        "status": "pass"
+      },
+      {
+        "check": "personal_contact_boundary",
+        "source_id": "SRC-SPEND-01",
+        "status": "pass"
+      },
+      {
+        "check": "snapshot_hash",
+        "source_id": "SRC-CYBER-01",
+        "status": "pass"
+      },
+      {
+        "actual": 42,
+        "check": "snapshot_record_count",
+        "expected": 42,
+        "source_id": "SRC-CYBER-01",
+        "status": "pass"
+      },
+      {
+        "check": "publication_review",
+        "source_id": "SRC-CYBER-01",
+        "status": "pass"
+      },
+      {
+        "check": "personal_contact_boundary",
+        "source_id": "SRC-CYBER-01",
+        "status": "pass"
+      },
+      {
+        "actual": 70,
+        "check": "manifest_selected_total",
+        "expected": 70,
+        "status": "pass"
+      }
+    ],
+    "lineage_integrity_status": "pass",
+    "newest_record_age_days": 1702,
+    "normalized_event_count": 70,
+    "oldest_record_age_days": 7759,
+    "portfolio_data_disclosure": "Real historical public facts selected offline into a limited demonstration fixture; no network retrieval was used to assemble the release.",
+    "provenance_schema_version": "historical_portfolio_provenance.v1",
+    "quality_status": "pass",
+    "rejected_observation_count": 0,
+    "required_field_completeness_pct": 100.0,
+    "schema_version": "historical_data_operations_showcase.v2",
+    "source_count": 3,
+    "source_distribution": {
+      "SRC-CYBER-01": 42,
+      "SRC-MACRO-01": 24,
+      "SRC-SPEND-01": 4
+    },
+    "year_distribution": {
+      "2005": 1,
+      "2008": 1,
+      "2009": 2,
+      "2010": 2,
+      "2012": 1,
+      "2013": 8,
+      "2015": 5,
+      "2016": 5,
+      "2017": 2,
+      "2018": 4,
+      "2019": 3,
+      "2020": 16,
+      "2021": 20
+    }
+  }
+}
